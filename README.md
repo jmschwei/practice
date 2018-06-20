@@ -1,3 +1,3 @@
 # Practice
-# Author: Matt Schweighardt 
-# Objective: To pracitce coding
+# Author: Mateo
+# Objective: None
